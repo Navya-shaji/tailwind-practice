@@ -14,6 +14,7 @@ function App() {
     fifth:"",
     sixth:""
   })
+  
 
   useEffect(()=>{
     inputRef.current[0].focus()
